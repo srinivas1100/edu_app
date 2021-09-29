@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "205030752568",
+    "project_id": "edu-app-b467f",
+    "storage_bucket": "edu-app-b467f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205030752568:android:db9b2f142cde0d654201cd",
+        "android_client_info": {
+          "package_name": "com.example.edu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205030752568-vg7q5g4ik14l383do75r768ptcqav5sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edu_app",
+            "certificate_hash": "41297345d0302941ce50425ce3db125d7d428b6a"
+          }
+        },
+        {
+          "client_id": "205030752568-bq26prq0fpv4f1hvrp3pbcsbfek2r6d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBijGcxIXuUaGDtBv6abhjBoDimw7j1fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205030752568-bq26prq0fpv4f1hvrp3pbcsbfek2r6d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
